@@ -2,4 +2,3 @@ milk
 coffee bean
 mint
 secret
-piri-piri
